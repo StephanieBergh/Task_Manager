@@ -22,7 +22,7 @@ This project simulates a real-world workflow system where users can log in, mana
 - Mark tasks as complete
 - Delete tasks (admin only)
 
-### 📊 Reporting System
+### Reporting System
 - Generate task overview report
 - Generate user performance reports
 - Track:
@@ -62,5 +62,10 @@ Task-Management-System/
 
 ## How to Run
 
-1. Clone the repository:
-2. git clone
+1. git clone https://github.com/StephanieBergh/Task_Manager.git
+2. cd task-management-system
+3. python task_manager.py
+
+## Default Admin Access
+Username: admin
+Password: adm1n
