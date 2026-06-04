@@ -60,6 +60,7 @@ This project simulates a real-world workflow system where users can log in, mana
 - ├── program_start_info.txt # Program run tracking
 - └── README.md
 ---
+
 ## How to Run
 
 1. git clone https://github.com/StephanieBergh/Task_Manager.git
@@ -69,6 +70,11 @@ This project simulates a real-world workflow system where users can log in, mana
 ---
 ## Default Admin Access
 
-- Username: admin
-- Password: adm1n
+-Username: admin
+-Password: adm1n
 ---
+
+## Author
+
+Stephanie Bergh
+Junior Data Analyst | Aspiring Quantitative Analyst 
