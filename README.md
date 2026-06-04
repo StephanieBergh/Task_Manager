@@ -30,7 +30,7 @@ This project simulates a real-world workflow system where users can log in, mana
   - Overdue tasks
   - Task distribution per user
   - Completion percentages
-  - 
+    
 ### Data Persistence
 - File-based storage using `.txt` files:
   - `user.txt`
@@ -59,13 +59,15 @@ Task-Management-System/
 ├── bin.txt # Deleted tasks archive
 ├── program_start_info.txt # Program run tracking
 └── README.md
-
+---
 ## How to Run
 
 1. git clone https://github.com/StephanieBergh/Task_Manager.git
-2. cd task-management-system
+2. cd Task_Manager
 3. python task_manager.py
 
+---
 ## Default Admin Access
 Username: admin
 Password: adm1n
+---
