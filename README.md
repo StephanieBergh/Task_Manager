@@ -51,14 +51,14 @@ This project simulates a real-world workflow system where users can log in, mana
 ---
 
 ## Project Structure
-Task-Management-System/
-│
-├── task_manager.py # Main program logic
-├── user.txt # Stored user credentials
-├── tasks.txt # Active tasks
-├── bin.txt # Deleted tasks archive
-├── program_start_info.txt # Program run tracking
-└── README.md
+- Task-Management-System/
+- │
+- ├── task_manager.py # Main program logic
+- ├── user.txt # Stored user credentials
+- ├── tasks.txt # Active tasks
+- ├── bin.txt # Deleted tasks archive
+- ├── program_start_info.txt # Program run tracking
+- └── README.md
 ---
 ## How to Run
 
@@ -68,6 +68,7 @@ Task-Management-System/
 
 ---
 ## Default Admin Access
-Username: admin
-Password: adm1n
+
+- Username: admin
+- Password: adm1n
 ---
