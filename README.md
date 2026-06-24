@@ -244,26 +244,3 @@ GitHub: https://github.com/StephanieBergh
 LinkedIn: https://www.linkedin.com/in/stephanie-bergh-142aa818a/
 
 ---
-
-## License
-
-This project is intended for educational and portfolio purposes.
-
-## How to Run
-
-1. git clone https://github.com/StephanieBergh/Task_Manager.git
-2. cd Task_Manager
-3. python task_manager.py
-
----
-## Default Admin Access
-
-- Username: admin
-- Password: adm1n
----
-
-## Author
-
-Stephanie Bergh
-
-Junior Data Analyst | Aspiring Quantitative Analyst 
