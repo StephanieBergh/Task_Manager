@@ -181,7 +181,58 @@ Potential enhancements include:
 - Task restoration from the recycle bin
 
 ---
+## How to Run
 
+### Prerequisites
+
+Make sure Python 3 is installed on your system.
+
+You can verify your installation by running:
+
+```bash
+python --version
+```
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/StephanieBergh/python-task-manager.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd python-task-manager
+```
+
+3. Install required packages:
+
+```bash
+pip install tabulate
+```
+
+### Running the Application
+
+Run the program from the terminal:
+
+```bash
+python task_manager.py
+```
+
+### Default Admin Login
+
+The application requires a valid username and password stored in `user.txt`.
+
+Example:
+
+```text
+Username: admin
+Password: adm1n
+```
+
+*(Use the credentials stored in your `user.txt` file.)*
 ## Author
 
 **Stephanie Bergh**
