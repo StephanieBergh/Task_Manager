@@ -71,10 +71,6 @@ Task-Manager/
 ├── task_manager.py
 ├── user.txt
 ├── tasks.txt
-├── bin.txt
-├── task_overview.txt
-├── user_overview.txt
-├── program_start_info.txt
 └── README.md
 ```
 
