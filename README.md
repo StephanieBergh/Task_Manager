@@ -164,19 +164,6 @@ This design improves code organization and maintainability.
 
 ---
 
-## Future Improvements
-
-Potential enhancements include:
-
-- Graphical User Interface (GUI)
-- Database integration using SQLite
-- Password hashing for improved security
-- Task search and filtering
-- Task priority levels
-- Email notifications for overdue tasks
-- Task restoration from the recycle bin
-
----
 ## How to Run
 
 ### Prerequisites
