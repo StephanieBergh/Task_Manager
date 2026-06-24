@@ -233,7 +233,7 @@ Password: adm1n
 
 **Stephanie Bergh**
 
-Junior Data Analyst | Python Developer
+Junior Data Analyst
 
 GitHub: https://github.com/StephanieBergh
 
